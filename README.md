@@ -1,6 +1,6 @@
 # 🧭 Maze Runner Project
 
-**Author:** Gabriel Edward Pabilona Marquez  
+**Author:** Gabriel Edward Pabilona Marquez  | 60300343
 **Course:** DSAI3202 - Parallel and Distributed Systems  
 **Objective:** Optimize automated maze solving using algorithmic improvements and parallel computing.
 
@@ -149,13 +149,10 @@ mpirun --hostfile machines.txt python main.py --parallel --type static
 ```
 
 ### 📦 Requirements
-Python 3.x
-
-pygame
-
-mpi4py
-
-numpy
+- Python 3.x
+- pygame
+- mpi4py
+- numpy
 
 To install dependencies:
 ```bash
