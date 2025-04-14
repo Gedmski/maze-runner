@@ -177,6 +177,6 @@ maze-runner/
 ```
 
 ### 📜 License
-```vbnet
+```
 This project is for academic use only. For external use, contact the author.
 ```
